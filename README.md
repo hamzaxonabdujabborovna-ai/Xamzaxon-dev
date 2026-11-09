@@ -50,7 +50,7 @@ me.say_hello()
     <img src="https://shields.io" alt="Instagram" />
   </a>
 </p>
-
+---
 
 ### 📚 Currently Learning
 
