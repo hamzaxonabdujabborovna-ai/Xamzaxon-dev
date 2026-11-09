@@ -40,6 +40,17 @@ me.say_hello()
 </p>
 
 ---
+### 🌐 Социальные сети
+
+<p align="left">
+  <a href="https://t.me" target="@Azamovva_101">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com" target="gulixon_azamova">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
+
 
 ### 📚 Currently Learning
 
