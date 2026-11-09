@@ -44,10 +44,10 @@ me.say_hello()
 
 <p align="left">
   <a href="https://t.me" target="@Azamovva_101">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0gMCdi1dsnBJ3MYs6dLRhf74VvKnaz06vbfnaFIAxA&s=10" alt="Telegram" />
+    <img src="" alt="Telegram" />
   </a>
   <a href="https://instagram.com" target="gulixon_azamova">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF26xG5hXb9C8x45HlpeFviZz2_389ZfHCq_FQURtHg&s=10" alt="Instagram" />
+    <img src="" alt="Instagram" />
   </a>
 </p>
 ---
